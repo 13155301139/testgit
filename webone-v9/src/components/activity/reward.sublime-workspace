@@ -1,0 +1,397 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tu",
+				"true"
+			],
+			[
+				"pa",
+				"parseFloat"
+			],
+			[
+				"ma",
+				"mt-a\tmargin-top: auto;"
+			],
+			[
+				"b",
+				"border-top"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"tx",
+				"text-align"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"padding-to",
+				"padding-bottom"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"margin-top",
+				"margin-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"font-size",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				":$ - EOF"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/bei/Desktop/webone-v7/src/components/userHome/loginLog.vue",
+		"/Users/bei/Desktop/webyy1/src/components/quotation.vue",
+		"/Users/bei/Desktop/webone-v7/src/components/userHome/recharge.vue",
+		"/Users/bei/Desktop/webone-v6/src/App.vue",
+		"/Users/bei/Desktop/webone-v6/src/components/home.vue",
+		"/Users/bei/Desktop/webone-v6/src/components/footer.vue",
+		"/Users/bei/Desktop/webone-v6/src/components/topHeader.vue",
+		"/Users/bei/Desktop/webone-v6/src/components/lettle_components/userBtnLink.vue",
+		"/Users/bei/Desktop/webone-v2/src/components/topHeader.vue",
+		"/Users/bei/Desktop/webone-v6/src/components/userHome/userIndex.vue",
+		"/Users/bei/Desktop/webone-v6/src/components/userHome/cash.vue",
+		"/Users/bei/Desktop/webone-v6/src/components/technique.vue",
+		"/Users/bei/Desktop/webone-v6/index.html",
+		"/Users/bei/Desktop/webone-v5/src/components/userHome/recharge.vue",
+		"/Users/bei/Desktop/webone-v5/config/i18n/i18n.js",
+		"/Users/bei/Desktop/webone-v5/src/components/home.vue",
+		"/Users/bei/Desktop/webone-v5/src/components/topHeader.vue",
+		"/Users/bei/Desktop/特效研究/PressOne.htm",
+		"/Users/bei/Desktop/webone-v5/index.html",
+		"/Users/bei/Desktop/webone-v5/src/main.js",
+		"/Users/bei/Desktop/webone-v5/static/js/sChart.js",
+		"/Users/bei/Desktop/webone-v5/src/router/index.js",
+		"/Users/bei/Desktop/特效研究/PressOne_files/core.min.js",
+		"/Users/bei/Desktop/webone-v2/src/components/lettle_components/addCurrencyAdr.vue",
+		"/Users/bei/Desktop/business.vue",
+		"/Users/bei/Desktop/webone-v4/src/components/business/business.vue",
+		"/Users/bei/Desktop/webone-v4/src/components/userHome/loginLog.vue",
+		"/Users/bei/Desktop/webone-v4/src/components/userHome/userIndex.vue",
+		"/Users/bei/Desktop/webone-v4/src/components/userHome/recharge.vue",
+		"/Users/bei/Desktop/webone-v4/src/components/userHome/cash.vue",
+		"/Users/bei/Desktop/webone-v4/src/components/userHome/message.vue",
+		"/Users/bei/Desktop/webone-v3/src/components/userHome/settings.vue",
+		"/Users/bei/Desktop/recharge.vue",
+		"/Users/bei/Desktop/eggone/web/src/components/userHome/recharge.vue",
+		"/Users/bei/Desktop/webone-v4/src/components/userHome/settings.vue",
+		"/Users/bei/Desktop/webone-v4/src/components/userHome/accountManagement.vue",
+		"/Users/bei/Desktop/webone-v4/src/components/userHome/accountDetails.vue",
+		"/Users/bei/Desktop/webone-v4/src/components/lettle_components/userTable.vue",
+		"/Users/bei/Desktop/webone-v3/src/components/lettle_components/userTable.vue",
+		"/Users/bei/Desktop/webone-v4/src/components/lettle_components/cashLog.vue",
+		"/Users/bei/Desktop/eggone/web/src/components/lettle_components/cashLog.vue",
+		"/Users/bei/Desktop/webone-v4/src/components/lettle_components/rechargeLog.vue",
+		"/Users/bei/Desktop/webone-v3/lettle_components/cashLog.vue",
+		"/Users/bei/Desktop/webone-v3/src/components/userHome/accountDetails.vue",
+		"/Users/bei/Desktop/webone-v4/src/components/lettle_components/rechargeList.vue",
+		"/Users/bei/Desktop/webone/src/components/topHeader.vue",
+		"/Users/bei/Desktop/webone/src/components/userHome/recharge.vue",
+		"/Users/bei/Desktop/webone-v4/src/components/home.vue",
+		"/Users/bei/Desktop/webone-v3/src/components/userHome/recharge.vue",
+		"/Users/bei/Desktop/webone-v3/src/components/userHome/cash.vue",
+		"/Users/bei/Desktop/eggone/web/src/components/userHome/cash.vue",
+		"/Users/bei/Desktop/webone-v3/src/components/userHome/userIndex.vue",
+		"/Users/bei/Desktop/webone-v3/src/components/real/realNameAuthentication.vue",
+		"/Users/bei/Desktop/webone-v3/src/components/real/realDetail.vue",
+		"/Users/bei/Desktop/webone-v3/src/components/userHome/accountManagement.vue",
+		"/Users/bei/Desktop/webone-v3/src/components/lettle_components/userFooter.vue",
+		"/Users/bei/Desktop/webone-v3/src/components/topHeader.vue",
+		"/Users/bei/Desktop/webone-v3/src/components/lettle_components/userBtnLink.vue",
+		"/Users/bei/Desktop/webone-v3/src/components/userHome/userIndex1.vue",
+		"/Users/bei/Desktop/webone-v3/src/router/index.js",
+		"/Users/bei/Desktop/webone-v2/src/components/userHome/userIndex1.vue",
+		"/Users/bei/Desktop/webone-v2/src/components/userHome/accountDetails.vue",
+		"/Users/bei/Desktop/webone-v2/src/components/lettle_components/userFooter.vue",
+		"/Users/bei/Desktop/webone/src/components/register.vue",
+		"/Users/bei/Desktop/webone/src/components/passwordRetrieval.vue",
+		"/Users/bei/Desktop/webone-v2/src/components/register.vue",
+		"/Users/bei/Desktop/webone/src/components/login.vue",
+		"/Users/bei/Desktop/webone/src/components/lettle_components/loginCenter.vue",
+		"/Users/bei/Desktop/webone/src/main.js",
+		"/Users/bei/Desktop/webone/static/data/static.json",
+		"/Users/bei/Desktop/webone/static/iconfont/iconfont.ttf",
+		"/Users/bei/Desktop/webone/static/iconfont/iconfont.svg",
+		"/Users/bei/Desktop/webone/static/iconfont/iconfont.js",
+		"/Users/bei/Desktop/webone/static/iconfont/iconfont.eot",
+		"/Users/bei/Desktop/email.ftl",
+		"/Users/bei/Desktop/webonebw/src/components/topHeader.vue",
+		"/Users/bei/Desktop/webonebw/src/components/user.vue",
+		"/Users/bei/Desktop/webonebw/src/components/register.vue",
+		"/Users/bei/Desktop/webonebw/src/router/index.js",
+		"/Users/bei/Desktop/webonebw/src/components/lettle_components/userBtnLink.vue",
+		"/Users/bei/Desktop/webonebw/src/components/home.vue",
+		"/Users/bei/Desktop/webonebw/src/components/lettle_components/TKLogin.vue",
+		"/Users/bei/Desktop/webonebw/src/main.js",
+		"/Users/bei/Desktop/webonebw/src/components/userHome/userIndex1.vue",
+		"/Users/bei/Desktop/webonebw/src/components/pointSlider/pointSlider.vue",
+		"/Users/bei/Desktop/weboneb/src/components/lettle_components/userBtnLink.vue",
+		"/Users/bei/Desktop/webonebw/static/css/base.css",
+		"/Users/bei/Desktop/webonebw/src/components/business/business.vue",
+		"/Users/bei/Desktop/weboneb/src/components/lettle_components/userTable.vue",
+		"/Users/bei/Desktop/weboneb/src/components/userHome/userIndex1.vue",
+		"/Users/bei/Desktop/weboneb/src/components/userHome/recharge.vue",
+		"/Users/bei/Desktop/weboneb/src/components/lettle_components/userFooter.vue",
+		"/Users/bei/Desktop/webonebk/src/components/userHome/userIndex1.vue",
+		"/Users/bei/Desktop/html标签.txt",
+		"/Users/bei/Desktop/weboneb/src/components/userHome/message.vue",
+		"/Users/bei/Desktop/weboneb/src/components/userHome/loginLog.vue",
+		"/Users/bei/Desktop/weboneb/src/components/userHome/cash.vue",
+		"/Users/bei/Desktop/weboneb/src/components/userHome/accountManagement.vue",
+		"/Users/bei/Desktop/weboneb/src/components/topHeader.vue",
+		"/Users/bei/Desktop/weboneb/src/components/home.vue",
+		"/Users/bei/Desktop/weboneb/src/components/passwordRetrieval.vue",
+		"/Users/bei/Desktop/weboneb/config/i18n/i18n.js",
+		"/Users/bei/Desktop/weboneb/src/components/user.vue",
+		"/Users/bei/Desktop/weboneb/src/components/lettle_components/loginCenter.vue",
+		"/Users/bei/Desktop/weboneb/src/components/register.vue",
+		"/Users/bei/Desktop/weboneb/src/components/footer.vue",
+		"/Users/bei/Desktop/weboneb/src/components/technique.vue",
+		"/Users/bei/Library/Application Support/Yummy FTP/Remote Edits/47.91.227.70 Edits/index.jsp8/index.jsp",
+		"/Users/bei/Desktop/index.jsp",
+		"/Users/bei/Desktop/topHeader.vue",
+		"/Users/bei/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/e8d318797bb05c88a5fccde81fd57406/Message/MessageTemp/df8fea2a9e01492323b1e3fb320f7018/OpenData/index.jsp",
+		"/Users/bei/Library/Application Support/Yummy FTP/Remote Edits/47.91.227.70 Edits/project-list.js/project-list.js",
+		"/Users/bei/Desktop/项目开发/vcoin/WEB-INF/pages/front_0/project/index.jsp",
+		"/Users/bei/Desktop/项目开发/vcoin/WEB-INF/pages/ssadmin/addSubscription.jsp",
+		"/Users/bei/Desktop/项目开发/vcoin/WEB-INF/pages/ssadmin/addIco.jsp",
+		"/Users/bei/Desktop/项目开发/vcoin/WEB-INF/pages/ssadmin/viewActivity.jsp",
+		"/Users/bei/Desktop/项目开发/vcoin/static/test.js",
+		"/Users/bei/Library/Application Support/Yummy FTP/Remote Edits/47.91.227.70 Edits/project-list.jsp2/project-list.jsp",
+		"/Users/bei/Library/Application Support/Yummy FTP/Remote Edits/47.91.227.70 Edits/app-base.css4/app-base.css",
+		"/Users/bei/Library/Application Support/Yummy FTP/Remote Edits/47.91.227.70 Edits/identity2.jsp1/identity2.jsp",
+		"/Users/bei/Library/Application Support/Yummy FTP/Remote Edits/47.91.227.70 Edits/identity.jsp2/identity.jsp",
+		"/Users/bei/Library/Application Support/Yummy FTP/Remote Edits/47.91.227.70 Edits/pro.js/pro.js",
+		"/Users/bei/Desktop/项目开发/vcoin/static/front/js/project/pro.js",
+		"/Users/bei/Library/Application Support/Yummy FTP/Remote Edits/47.91.227.70 Edits/alert.inc.jsp/alert.inc.jsp",
+		"/Users/bei/Library/Application Support/Yummy FTP/Remote Edits/47.91.227.70 Edits/support.jsp1/support.jsp",
+		"/Users/bei/Library/Application Support/Yummy FTP/Remote Edits/47.91.227.70 Edits/index.jsp7/index.jsp",
+		"/Users/bei/Library/Application Support/Yummy FTP/Remote Edits/47.91.227.70 Edits/login2.jsp/login2.jsp",
+		"/Users/bei/Library/Application Support/Yummy FTP/Remote Edits/47.91.227.70 Edits/login1.jsp/login1.jsp"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "reward.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/完整的秒表实列.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
